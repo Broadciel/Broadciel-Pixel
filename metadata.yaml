@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://www.broadciel.com"
+documentation: "https://boardciel.console.rixbeedesk.com/tracking/tracking-pixel-md"
 versions:
   - sha: de049a0ccbc0908d9273eed565bcaf17635e9f56
     changeNotes: Initial Version
