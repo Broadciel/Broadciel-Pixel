@@ -15,5 +15,7 @@
 homepage: "https://www.broadciel.com"
 documentation: "https://boardciel.console.rixbeedesk.com/tracking/tracking-pixel-md"
 versions:
+  - sha: 243ffd3c88edb28c96ef4a2288439eeb3b876036
+    changeNotes: This version fixes some tracking issues
   - sha: de049a0ccbc0908d9273eed565bcaf17635e9f56
     changeNotes: Initial Version
